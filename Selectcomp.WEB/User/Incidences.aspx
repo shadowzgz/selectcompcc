@@ -51,11 +51,8 @@
         <br />
         <asp:Button ID="btnCreateIncidence" runat="server" OnClick="btnCreateIncidence_Click" Text="Crear incidencia" Width="167px" Height="52px" />
     </p>
-    <br/>
-     <br/>
-     <br/>
     <asp:Panel ID="pnlCreateIncidence" runat="server" Visible="False">
-        <b>Crear una nueva incidencia:</b><br />
+        Crear una nueva incidencia:<br />
         <br />
         Nombre de la incidencia:
         <asp:TextBox ID="tbIncidenceName" runat="server" Width="251px"></asp:TextBox>

@@ -86,3 +86,21 @@ C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.CORE\bin\Debug\es\Microsoft.AspNe
 C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.CORE\obj\Debug\Selectcomp.CORE.csprojResolveAssemblyReference.cache
 C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.CORE\obj\Debug\Selectcomp.CORE.dll
 C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.CORE\obj\Debug\Selectcomp.CORE.pdb
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.CORE\bin\Debug\Selectcomp.CORE.dll.config
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.CORE\bin\Debug\Selectcomp.CORE.dll
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.CORE\bin\Debug\Selectcomp.CORE.pdb
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.CORE\bin\Debug\EntityFramework.dll
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.CORE\bin\Debug\EntityFramework.SqlServer.dll
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.CORE\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.CORE\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.CORE\bin\Debug\EntityFramework.xml
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.CORE\bin\Debug\EntityFramework.SqlServer.xml
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.CORE\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.CORE\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.CORE\bin\Debug\es\EntityFramework.resources.dll
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.CORE\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.CORE\bin\Debug\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.CORE\bin\Debug\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.CORE\obj\Debug\Selectcomp.CORE.csprojResolveAssemblyReference.cache
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.CORE\obj\Debug\Selectcomp.CORE.dll
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.CORE\obj\Debug\Selectcomp.CORE.pdb

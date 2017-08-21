@@ -864,8 +864,6 @@ pre code {
   min-height: 1px;
   padding-right: 15px;
   padding-left: 15px;
-    top: 0px;
-    left: -1px;
 }
 
 .col-xs-1,
@@ -958,7 +956,6 @@ pre code {
   }
   .col-sm-4 {
     width: 33.33333333333333%;
-
   }
   .col-sm-5 {
     width: 41.66666666666667%;
@@ -6832,8 +6829,4 @@ td.visible-print {
   td.hidden-print {
     display: none !important;
   }
-
-}
-
-
 }

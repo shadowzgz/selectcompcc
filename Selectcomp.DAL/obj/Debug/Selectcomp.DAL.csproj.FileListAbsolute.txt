@@ -113,3 +113,26 @@ C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.DAL\obj\Debug\Selectcomp.DAL.pdb
 F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.DAL\obj\Debug\Selectcomp.DAL.Migrations.InitialCreate.resources
 F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.DAL\obj\Debug\Selectcomp.DAL.csproj.GenerateResource.Cache
 F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.DAL\obj\Debug\Selectcomp.DAL.Migrations.prueba.resources
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.DAL\bin\Debug\Selectcomp.DAL.dll.config
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.DAL\bin\Debug\Selectcomp.DAL.dll
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.DAL\bin\Debug\Selectcomp.DAL.pdb
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.DAL\bin\Debug\EntityFramework.dll
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.DAL\bin\Debug\Selectcomp.CORE.dll
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.DAL\bin\Debug\Selectcomp.CORE.pdb
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.DAL\bin\Debug\EntityFramework.xml
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.DAL\bin\Debug\es\EntityFramework.resources.dll
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.DAL\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.DAL\bin\Debug\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.DAL\bin\Debug\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.DAL\obj\Debug\Selectcomp.DAL.csprojResolveAssemblyReference.cache
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.DAL\obj\Debug\Selectcomp.DAL.Migrations.InitialCreate.resources
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.DAL\obj\Debug\Selectcomp.DAL.Migrations.prueba.resources
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.DAL\obj\Debug\Selectcomp.DAL.csproj.GenerateResource.Cache
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.DAL\obj\Debug\Selectcomp.DAL.dll
+D:\Git Hub Repos\selectcomp\selectcomp\Selectcomp.DAL\obj\Debug\Selectcomp.DAL.pdb
