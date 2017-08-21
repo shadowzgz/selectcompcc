@@ -1,0 +1,110 @@
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.APP\bin\Debug\Selectcomp.APP.dll.config
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.APP\bin\Debug\Selectcomp.APP.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.APP\bin\Debug\Selectcomp.APP.pdb
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.APP\bin\Debug\EntityFramework.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.APP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.APP\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.APP\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.APP\bin\Debug\Selectcomp.CORE.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.APP\bin\Debug\Selectcomp.DAL.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.APP\bin\Debug\Selectcomp.CORE.pdb
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.APP\bin\Debug\Selectcomp.DAL.pdb
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.APP\bin\Debug\EntityFramework.xml
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.APP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.APP\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.APP\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.APP\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.APP\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.APP\bin\Debug\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.APP\bin\Debug\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.APP\obj\Debug\Selectcomp.APP.csprojResolveAssemblyReference.cache
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.APP\obj\Debug\Selectcomp.APP.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.APP\obj\Debug\Selectcomp.APP.pdb
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\Selectcomp.APP.dll.config
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\Selectcomp.APP.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\Selectcomp.APP.pdb
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\EntityFramework.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\Selectcomp.CORE.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\Selectcomp.DAL.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\Selectcomp.CORE.pdb
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\Selectcomp.DAL.pdb
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\EntityFramework.xml
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.APP\obj\Debug\Selectcomp.APP.csprojResolveAssemblyReference.cache
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.APP\obj\Debug\Selectcomp.APP.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.APP\obj\Debug\Selectcomp.APP.pdb
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\Selectcomp.APP.dll.config
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\Selectcomp.APP.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\Selectcomp.APP.pdb
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\EntityFramework.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\Selectcomp.CORE.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\Selectcomp.DAL.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\Selectcomp.CORE.pdb
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\Selectcomp.DAL.pdb
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\EntityFramework.xml
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.APP\obj\Debug\Selectcomp.APP.csprojResolveAssemblyReference.cache
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.APP\obj\Debug\Selectcomp.APP.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.APP\obj\Debug\Selectcomp.APP.pdb
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.APP\bin\Debug\Selectcomp.APP.dll.config
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.APP\bin\Debug\Selectcomp.APP.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.APP\bin\Debug\Selectcomp.APP.pdb
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.APP\bin\Debug\EntityFramework.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.APP\bin\Debug\EntityFramework.SqlServer.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.APP\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.APP\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.APP\bin\Debug\Selectcomp.CORE.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.APP\bin\Debug\Selectcomp.DAL.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.APP\bin\Debug\Selectcomp.CORE.pdb
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.APP\bin\Debug\Selectcomp.DAL.pdb
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.APP\bin\Debug\EntityFramework.xml
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.APP\bin\Debug\EntityFramework.SqlServer.xml
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.APP\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.APP\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.APP\bin\Debug\es\EntityFramework.resources.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.APP\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.APP\bin\Debug\es\Microsoft.AspNet.Identity.Core.resources.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.APP\bin\Debug\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.APP\obj\Debug\Selectcomp.APP.csprojResolveAssemblyReference.cache
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.APP\obj\Debug\Selectcomp.APP.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.APP\obj\Debug\Selectcomp.APP.pdb
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\Selectcomp.APP.dll.config
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\Selectcomp.APP.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\Selectcomp.APP.pdb
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\EntityFramework.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\Selectcomp.CORE.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\Selectcomp.DAL.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\Selectcomp.CORE.pdb
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\Selectcomp.DAL.pdb
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\EntityFramework.xml
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.APP\bin\Debug\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.APP\obj\Debug\Selectcomp.APP.csprojResolveAssemblyReference.cache
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.APP\obj\Debug\Selectcomp.APP.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.APP\obj\Debug\Selectcomp.APP.pdb

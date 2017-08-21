@@ -1,0 +1,432 @@
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Selectcomp.WEB.dll.config
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Selectcomp.WEB.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Selectcomp.WEB.pdb
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Antlr3.Runtime.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\EntityFramework.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\EntityFramework.SqlServer.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Newtonsoft.Json.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Owin.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Selectcomp.APP.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Selectcomp.CORE.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Selectcomp.DAL.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\System.Web.Optimization.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\System.Web.Providers.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\WebGrease.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Selectcomp.APP.pdb
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Selectcomp.CORE.pdb
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Selectcomp.DAL.pdb
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\EntityFramework.xml
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\EntityFramework.SqlServer.xml
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\System.Web.Optimization.xml
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Antlr3.Runtime.pdb
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Newtonsoft.Json.xml
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.xml
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.xml
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\es\EntityFramework.resources.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\es\System.Web.Providers.resources.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\obj\Debug\Selectcomp.WEB.csprojResolveAssemblyReference.cache
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\obj\Debug\Selectcomp.WEB.dll
+C:\Users\Joaquin\Documents\Visual Studio 2013\Projects\Selectcomp\Selectcomp.WEB\obj\Debug\Selectcomp.WEB.pdb
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Selectcomp.WEB.dll.config
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Selectcomp.WEB.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Selectcomp.WEB.pdb
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Antlr3.Runtime.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\EntityFramework.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\EntityFramework.SqlServer.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Newtonsoft.Json.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Owin.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Selectcomp.APP.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Selectcomp.CORE.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Selectcomp.DAL.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\System.Web.Optimization.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\System.Web.Providers.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\WebGrease.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Selectcomp.APP.pdb
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Selectcomp.CORE.pdb
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Selectcomp.DAL.pdb
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\EntityFramework.xml
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\EntityFramework.SqlServer.xml
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Newtonsoft.Json.xml
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\System.Web.Optimization.xml
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Antlr3.Runtime.pdb
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.xml
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.xml
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\es\EntityFramework.resources.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\es\System.Web.Optimization.resources.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\es\System.Web.Providers.resources.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.Owin.resources.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\obj\Debug\Selectcomp.WEB.csprojResolveAssemblyReference.cache
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\obj\Debug\Selectcomp.WEB.dll
+C:\Users\A3\Desktop\Selectcomp\Selectcomp.WEB\obj\Debug\Selectcomp.WEB.pdb
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Selectcomp.WEB.dll.config
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Selectcomp.WEB.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Selectcomp.WEB.pdb
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Antlr3.Runtime.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\EntityFramework.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\EntityFramework.SqlServer.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Newtonsoft.Json.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Owin.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Selectcomp.APP.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Selectcomp.CORE.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Selectcomp.DAL.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\System.Web.Optimization.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\System.Web.Providers.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\WebGrease.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Selectcomp.APP.pdb
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Selectcomp.CORE.pdb
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Selectcomp.DAL.pdb
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\EntityFramework.xml
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\EntityFramework.SqlServer.xml
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Newtonsoft.Json.xml
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\System.Web.Optimization.xml
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Antlr3.Runtime.pdb
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.xml
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.xml
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\es\EntityFramework.resources.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\es\System.Web.Providers.resources.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\obj\Debug\Selectcomp.WEB.csprojResolveAssemblyReference.cache
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\obj\Debug\Selectcomp.WEB.dll
+C:\Users\Jorge-PC\Desktop\Selectcomp\Selectcomp.WEB\obj\Debug\Selectcomp.WEB.pdb
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Selectcomp.WEB.dll.config
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Selectcomp.WEB.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Selectcomp.WEB.pdb
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Antlr3.Runtime.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\AspNet.ScriptManager.bootstrap.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\AspNet.ScriptManager.jQuery.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\EntityFramework.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\EntityFramework.SqlServer.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.Google.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Microsoft.ScriptManager.WebForms.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Microsoft.Web.Infrastructure.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Newtonsoft.Json.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Owin.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Selectcomp.APP.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Selectcomp.CORE.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Selectcomp.DAL.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\System.Web.Optimization.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\System.Web.Providers.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\WebGrease.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Selectcomp.APP.pdb
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Selectcomp.CORE.pdb
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Selectcomp.DAL.pdb
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\EntityFramework.xml
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\EntityFramework.SqlServer.xml
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Newtonsoft.Json.xml
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\System.Web.Optimization.xml
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Antlr3.Runtime.pdb
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.xml
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.xml
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.Google.xml
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\es\EntityFramework.resources.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\es\EntityFramework.SqlServer.resources.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\es\System.Web.Optimization.resources.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\es\System.Web.Providers.resources.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.Owin.resources.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.Owin.Security.resources.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.Owin.Security.Google.resources.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\obj\Debug\Selectcomp.WEB.csprojResolveAssemblyReference.cache
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\obj\Debug\Selectcomp.WEB.dll
+F:\Bachelor\2ºCurso\Ingeniería Web\Selectcomp\Selectcomp.WEB\obj\Debug\Selectcomp.WEB.pdb
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Selectcomp.WEB.dll.config
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Selectcomp.WEB.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Selectcomp.WEB.pdb
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Antlr3.Runtime.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\EntityFramework.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\EntityFramework.SqlServer.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Newtonsoft.Json.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Owin.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Selectcomp.APP.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Selectcomp.CORE.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Selectcomp.DAL.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\System.Web.Optimization.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\System.Web.Providers.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\WebGrease.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Selectcomp.APP.pdb
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Selectcomp.CORE.pdb
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Selectcomp.DAL.pdb
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\EntityFramework.xml
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\EntityFramework.SqlServer.xml
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Newtonsoft.Json.xml
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\System.Web.Optimization.xml
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Antlr3.Runtime.pdb
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.xml
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.xml
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\es\EntityFramework.resources.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\es\System.Web.Providers.resources.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\obj\Debug\Selectcomp.WEB.csprojResolveAssemblyReference.cache
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\obj\Debug\Selectcomp.WEB.dll
+C:\Users\Joaquin\Desktop\Selectcomp\Selectcomp.WEB\obj\Debug\Selectcomp.WEB.pdb
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Selectcomp.WEB.dll.config
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Selectcomp.WEB.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Selectcomp.WEB.pdb
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Antlr3.Runtime.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\AspNet.ScriptManager.jQuery.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\EntityFramework.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\EntityFramework.SqlServer.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Microsoft.Owin.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Microsoft.Owin.Security.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Microsoft.Owin.Security.Google.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Microsoft.Web.Infrastructure.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Newtonsoft.Json.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Owin.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Selectcomp.APP.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Selectcomp.CORE.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Selectcomp.DAL.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\System.Web.Optimization.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\System.Web.Providers.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\WebGrease.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Selectcomp.APP.pdb
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Selectcomp.CORE.pdb
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Selectcomp.DAL.pdb
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\EntityFramework.xml
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\EntityFramework.SqlServer.xml
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Newtonsoft.Json.xml
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\System.Web.Optimization.xml
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Antlr3.Runtime.pdb
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Microsoft.Owin.xml
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Microsoft.Owin.Security.xml
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Microsoft.Owin.Security.Google.xml
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\es\EntityFramework.resources.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\es\EntityFramework.SqlServer.resources.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\es\System.Web.Optimization.resources.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\es\System.Web.Providers.resources.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\es\Microsoft.Owin.resources.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\es\Microsoft.Owin.Security.resources.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\es\Microsoft.Owin.Security.Google.resources.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\obj\Debug\Selectcomp.WEB.csprojResolveAssemblyReference.cache
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\obj\Debug\Selectcomp.WEB.dll
+E:\Users\Joaquín\Desktop\JORGE\Bachelor\Libros SEAS\2º Año\2º Cuatrimestre\selectcomp-master\Selectcomp.WEB\obj\Debug\Selectcomp.WEB.pdb
