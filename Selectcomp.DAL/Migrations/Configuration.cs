@@ -10,7 +10,6 @@ namespace Selectcomp.DAL.Migrations
         public Configuration()
         {
             AutomaticMigrationsEnabled = false;
-            ContextKey = "Selectcomp.DAL.ApplicationDbContext";
         }
 
         protected override void Seed(Selectcomp.DAL.ApplicationDbContext context)

@@ -53,13 +53,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ApplicationDbContext.cs" />
-    <Compile Include="Migrations\201705172311194_InitialCreate.cs" />
-    <Compile Include="Migrations\201705172311194_InitialCreate.Designer.cs">
-      <DependentUpon>201705172311194_InitialCreate.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201705172338400_prueba.cs" />
-    <Compile Include="Migrations\201705172338400_prueba.Designer.cs">
-      <DependentUpon>201705172338400_prueba.cs</DependentUpon>
+    <Compile Include="Migrations\201708211736451_prueba.cs" />
+    <Compile Include="Migrations\201708211736451_prueba.Designer.cs">
+      <DependentUpon>201708211736451_prueba.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -75,11 +71,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201705172311194_InitialCreate.resx">
-      <DependentUpon>201705172311194_InitialCreate.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201705172338400_prueba.resx">
-      <DependentUpon>201705172338400_prueba.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201708211736451_prueba.resx">
+      <DependentUpon>201708211736451_prueba.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -13,7 +13,7 @@ namespace Selectcomp.DAL.Migrations
         
         string IMigrationMetadata.Id
         {
-            get { return "201705172338400_prueba"; }
+            get { return "201708211736451_prueba"; }
         }
         
         string IMigrationMetadata.Source
