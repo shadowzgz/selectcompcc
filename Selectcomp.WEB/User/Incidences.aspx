@@ -80,4 +80,15 @@
 
 
 
+    <br />
+    <br />
+&nbsp;<asp:Button ID="btnAdminIncidences" runat="server" OnClick="btnAdminIncidences_Click" Text="Listado incidencias administrador" Width="275px" Height="52px" Visible="False" />
+    <br />
+
+
+
+
+
+
+
 </asp:Content>

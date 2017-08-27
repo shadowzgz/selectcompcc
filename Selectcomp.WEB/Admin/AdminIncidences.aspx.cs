@@ -17,7 +17,10 @@ namespace Selectcomp.WEB.Admin
                 Response.Redirect("~/AccessDenied.aspx");
             }
             GridView1.UseAccessibleHeader = true;
-            GridView1.HeaderRow.TableSection = TableRowSection.TableHeader;
+            if (GridView1.HeaderRow != null)
+            {
+                GridView1.HeaderRow.TableSection = TableRowSection.TableHeader;
+            }
         }
     }
 }

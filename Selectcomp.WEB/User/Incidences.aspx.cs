@@ -25,6 +25,10 @@ namespace Selectcomp.WEB.User
             {
                 Response.Redirect("~/AccessDenied.aspx");
             }
+            if (User.Identity.GetUserName() == "Administrador")
+            {
+                btnAdminIncidences.Visible = true;
+            }
             lblUserId.Text = User.Identity.GetUserId();
             GridView1.UseAccessibleHeader = true;
             if(GridView1.HeaderRow != null)
@@ -57,6 +61,13 @@ namespace Selectcomp.WEB.User
         {
             pnlCreateIncidence.Visible = true;
         }
+
+        protected void btnAdminIncidences_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("~/Admin/AdminIncidences");
+        }
+
+
 
         /// <summary>
         /// Método que se dispara al clicar el botón "Save new incidence", que crea una nueva incidencia.

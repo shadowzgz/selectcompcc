@@ -1,6 +1,6 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="IncidenceDetails.aspx.cs" Inherits="Selectcomp.WEB.User.IncidenceDetails" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
-    <h1>Detalles de la incidencia</h1>
+    <h1>&nbsp;Detalles de la incidencia</h1>
     <asp:Panel ID="pnlDetails" runat="server">
         <strong><span style="font-size: 16pt">Asunto de la incidencia:</span></strong>
         <asp:Label ID="lblSubject" runat="server"></asp:Label>
@@ -12,7 +12,14 @@
         <br />
         <br />
         <asp:Panel ID="pnlAdminDetails" runat="server" BackColor="#CCFFFF" BorderStyle="Inset" Visible="False">
-            <span style="font-size: 16pt"><strong>Detalles de administrador<br /> </strong></span><span style="font-size: 13pt"><strong>Estado de la incidencia:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong></span><span style="font-size: 16pt">
+            <span style="font-size: 16pt"><strong>Detalles de administrador<br /> 
+            <br />
+            </strong><span>Estado:
+            <asp:Label ID="lblAdminStatus" runat="server"></asp:Label>
+            &nbsp;&nbsp; Prioridad:
+            <asp:Label ID="lblAdminPriority" runat="server"></asp:Label>
+            <br />
+            </span></span><span style="font-size: 13pt"><strong>Estado de la incidencia:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong></span><span style="font-size: 16pt">
             <asp:DropDownList ID="ddlStatus" runat="server" style="font-size: 13pt" Width="153px">
             </asp:DropDownList>
             <br />
@@ -38,6 +45,7 @@
         <br />
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <asp:Button ID="btnSaveNewMessage" runat="server" OnClick="btnSaveNewMessage_Click" Text="Guardar" />
+        <asp:Label ID="lblNewMessage" runat="server"></asp:Label>
     </asp:Panel>
     
 
